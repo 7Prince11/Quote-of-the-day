@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Ubuntu";
+    src: url("../fonts/Ubuntu-Regular.ttf");
+    font-style: normal;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "Sansita";
+    src: url("../fonts/SansitaSwashed-VariableFont_wght.ttf");
+    font-style: normal;
+    font-weight: 300;
+}
+
+
+h1, h2 , button{
+    font-family: "Ubuntu" !important;
+}
+ul li {
+    font-family: "Sansita";
+}
+ 
